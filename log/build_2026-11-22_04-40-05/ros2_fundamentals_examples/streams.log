@@ -1,0 +1,39 @@
+[0.006s] Invoking command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples -- -j16 -l16
+[0.058s] Built target ament_cmake_python_copy_ros2_fundamentals_examples
+[0.186s] running egg_info
+[0.192s] creating ros2_fundamentals_examples.egg-info
+[0.192s] writing ros2_fundamentals_examples.egg-info/PKG-INFO
+[0.192s] writing dependency_links to ros2_fundamentals_examples.egg-info/dependency_links.txt
+[0.193s] writing top-level names to ros2_fundamentals_examples.egg-info/top_level.txt
+[0.193s] writing manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+[0.212s] reading manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+[0.213s] writing manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+[0.236s] Built target ament_cmake_python_build_ros2_fundamentals_examples_egg
+[0.250s] Invoked command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples -- -j16 -l16
+[0.260s] Invoking command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples
+[0.269s] -- Install configuration: ""
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/__init__.py
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/pi_minimal_publisher.py
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/include
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/include/ros2_fundamentals_examples
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.sh
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.dsv
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/top_level.txt
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/dependency_links.txt
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/PKG-INFO
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/SOURCES.txt
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples
+[0.269s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/__init__.py
+[0.270s] -- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/pi_minimal_publisher.py
+[0.302s] Listing '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples'...
+[0.302s] Compiling '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/__init__.py'...
+[0.302s] Compiling '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/pi_minimal_publisher.py'...
+[0.307s] [31mCMake Error at cmake_install.cmake:78 (file):
+[0.307s]   file INSTALL cannot find
+[0.308s]   "/home/itsoporo/Documents/Codium/Repos/ros2_learning/src/ros2_fundamentals_examples/ross2_fundamentals_examples/py_minimal_publisher.py_minimal_py":
+[0.308s]   No such file or directory.
+[0.308s] 
+[0.308s] [0m
+[0.309s] Invoked command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples

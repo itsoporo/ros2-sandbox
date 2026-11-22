@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples/ament_cmake_python/ros2_fundamentals_examples/setup.py", line 1, in <module>
+    from setuptools import find_packages
+ModuleNotFoundError: No module named 'setuptools'
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:164: CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

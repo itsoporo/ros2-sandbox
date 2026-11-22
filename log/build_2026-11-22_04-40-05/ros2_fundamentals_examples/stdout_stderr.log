@@ -1,0 +1,35 @@
+Built target ament_cmake_python_copy_ros2_fundamentals_examples
+running egg_info
+creating ros2_fundamentals_examples.egg-info
+writing ros2_fundamentals_examples.egg-info/PKG-INFO
+writing dependency_links to ros2_fundamentals_examples.egg-info/dependency_links.txt
+writing top-level names to ros2_fundamentals_examples.egg-info/top_level.txt
+writing manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+reading manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+writing manifest file 'ros2_fundamentals_examples.egg-info/SOURCES.txt'
+Built target ament_cmake_python_build_ros2_fundamentals_examples_egg
+-- Install configuration: ""
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/__init__.py
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/ros2_fundamentals_examples/pi_minimal_publisher.py
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/include
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/include/ros2_fundamentals_examples
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.sh
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/share/ros2_fundamentals_examples/environment/pythonpath.dsv
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/top_level.txt
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/dependency_links.txt
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/PKG-INFO
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples-0.0.0-py3.12.egg-info/SOURCES.txt
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/__init__.py
+-- Installing: /home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/pi_minimal_publisher.py
+Listing '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples'...
+Compiling '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/__init__.py'...
+Compiling '/home/itsoporo/Documents/Codium/Repos/ros2_learning/install/ros2_fundamentals_examples/lib/python3.12/site-packages/ros2_fundamentals_examples/pi_minimal_publisher.py'...
+[31mCMake Error at cmake_install.cmake:78 (file):
+  file INSTALL cannot find
+  "/home/itsoporo/Documents/Codium/Repos/ros2_learning/src/ros2_fundamentals_examples/ross2_fundamentals_examples/py_minimal_publisher.py_minimal_py":
+  No such file or directory.
+
+[0m

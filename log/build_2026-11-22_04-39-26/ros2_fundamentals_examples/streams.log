@@ -1,0 +1,30 @@
+[0.008s] Invoking command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples -- -j16 -l16
+[0.063s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.222s] -- Found rclcpp: 28.1.22 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.253s] -- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.261s] -- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.274s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.288s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.331s] -- Found rmw_implementation_cmake: 7.3.4 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.331s] -- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.378s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.424s] -- Found rclpy: 7.1.12 (/opt/ros/jazzy/share/rclpy/cmake)
+[0.424s] -- Found std_msgs: 5.3.8 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.520s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.598s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.598s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.598s] -- Added test 'lint_cmake' to check CMake code style
+[0.598s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.599s] -- Added test 'xmllint' to check XML markup files
+[0.600s] -- Configuring done (0.5s)
+[0.608s] -- Generating done (0.0s)
+[0.610s] -- Build files have been written to: /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples
+[0.648s] Built target ament_cmake_python_copy_ros2_fundamentals_examples
+[0.669s] Traceback (most recent call last):
+[0.669s]   File "/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples/ament_cmake_python/ros2_fundamentals_examples/setup.py", line 1, in <module>
+[0.669s]     from setuptools import find_packages
+[0.669s] ModuleNotFoundError: No module named 'setuptools'
+[0.671s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg] Error 1
+[0.671s] gmake[1]: *** [CMakeFiles/Makefile2:164: CMakeFiles/ament_cmake_python_build_ros2_fundamentals_examples_egg.dir/all] Error 2
+[0.671s] gmake: *** [Makefile:146: all] Error 2
+[0.673s] Invoked command in '/home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/itsoporo/Documents/Codium/Repos/ros2_learning/build/ros2_fundamentals_examples -- -j16 -l16

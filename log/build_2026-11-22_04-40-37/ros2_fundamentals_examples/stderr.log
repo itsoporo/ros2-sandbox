@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:78 (file):
+  file INSTALL cannot find
+  "/home/itsoporo/Documents/Codium/Repos/ros2_learning/src/ros2_fundamentals_examples/ross2_fundamentals_examples/py_minimal_publisher.py_minimal_publisher.py":
+  No such file or directory.
+
+[0m
